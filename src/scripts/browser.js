@@ -5,7 +5,7 @@ var particles = Particles.init({
   color: ['#DA0463', '#404B69','pink','orange','grey','#c6093b','#0033a0'],
   connectParticles: false,
   sizeVariation: 1000,
-  maxParticles : 1000,
+  maxParticles : 100,
   responsive: [{
   	breakpoint: 800,
     options: {
